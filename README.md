@@ -13,8 +13,15 @@
  10. Expenses Management
  11. Balance Sheet and Profit/Loss determination through it, for each PG. 
 
+-----------
+### Setup
 
-
+1. Database name = tms_db
+2. User = gunsnroses
+3. Password = gunsnroses
+#### Django Admin Credentials
+Username :  admin
+Password :  orchid_petals
 
  -------
 ## References
